@@ -1,2 +1,2 @@
 # Safe-Keeping
-This code will allow users to keep all their passwords for their accounts in one place while also ensuring they are secure and safe
+People around the world are constantly having to create new accounts for applications, websites, annd other applications we use on the internet. It can become extremely difficuly to remember all these passwords and can leads to them changing passwords constantly due to forgetting them. This software will allow each user to store their passwords for all applications they are signed up for in a secure and safe way. This gives our customers constant access if they find themselves forgetting what their password was for a certain application.
