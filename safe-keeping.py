@@ -79,7 +79,7 @@ while True:
     elif choice == "4":
         print("Please login to view passwords.")
     elif choice == "5":
-        print("Exiting the program.")
+        print("Logout Successful.")
         break
     else:
         print("Invalid choice. Please enter 1, 2, 3, 4, or 5.")
